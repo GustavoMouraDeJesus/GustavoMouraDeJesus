@@ -17,7 +17,7 @@ Me chamo Gustavo Moura, tenho 21 anos e moro em São Paulo. Concluí o ensino m�
  width="30px"
  style="padding-right: 10px;"
  src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
- src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
+ 
 <br>
  ### 📊 Estatísticas 
 
