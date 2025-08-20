@@ -11,12 +11,11 @@ Me chamo Gustavo Moura, tenho 21 anos e moro em São Paulo. Concluí o ensino m�
 
 ### 🤖 Linguagens e Tecnologias
 
-<img
- aling="left"
- alt="HTML5"
- width="30px"
- style="padding-right: 10px;"
- src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
+<p align="left">
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</p>
  
 <br>
  ### 📊 Estatísticas 
