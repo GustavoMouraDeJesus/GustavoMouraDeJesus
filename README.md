@@ -2,7 +2,9 @@
 
 **`Aprendendo Back-End`**
 
-Me chamo Gustavo Moura, tenho 21 anos e moro em São Paulo. Concluí o ensino médio na E. E. Gabriel Ortiz com curso básico em Administração e sou Tecnólogo em Logística formado pela UNICID. Atualmente sou aluno do Proa na turma de java do segundo semestre de 2025 no periodo da manhã. Decidir me desafiar ao extremo no momento em que escolhi entrar de vez no ramo da tecnologia, e não poderia estar mais feliz por ter tomado esta decisão. Meu foco e me desenvolver dentro da areá de tecnologia sempre com muita coragem e força de vontade.
+Meu nome é Gustavo Moura, tenho 21 anos e resido em São Paulo. Concluí o ensino médio na E. E. Gabriel Ortiz, com formação básica em Administração, e sou Tecnólogo em Logística pela UNICID. Atualmente, sou aluno do Instituto Proa, cursando Java no período da manhã, turma do segundo semestre de 2025.
+
+Decidi direcionar minha carreira para a área de Tecnologia da Informação, um setor que exige constante aprendizado e adaptação. Estou comprometido em desenvolver minhas habilidades com dedicação, coragem e determinação, buscando sempre crescimento pessoal e profissional.
 
 ---
 
