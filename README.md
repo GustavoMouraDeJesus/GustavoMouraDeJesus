@@ -14,8 +14,9 @@ Me chamo Gustavo Moura, tenho 21 anos e moro em São Paulo. Concluí o ensino m�
 <p align="left">
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</p>
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ </p>
  
 <br>
  ### 📊 Estatísticas 
@@ -23,12 +24,12 @@ Me chamo Gustavo Moura, tenho 21 anos e moro em São Paulo. Concluí o ensino m�
  <img
  aling="left"
  alt="HTML5"
- width="392px"
- src="https://github-readme-stats.vercel.app/api?username=GustavoMouraDeJesus&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br&count_private=true" />
+ width="435px"
+ src="https://github-readme-stats.vercel.app/api?username=GustavoMouraDeJesus&show_icons=true&theme=chartreuse-dark&include_all_commits&locale=pt-br&count_private=true" />
  <img
  aling="left"
  alt="GitHub Stats"
  width="392px"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&theme=default&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true" />
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&theme=chartreuse-dark&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true" />
 
                       
