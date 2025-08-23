@@ -19,18 +19,18 @@ Me chamo Gustavo Moura, tenho 21 anos e moro em São Paulo. Concluí o ensino m�
  
 <br>
  ### 📊 Estatísticas 
-
+ 
  <img
  aling="left"
  alt="HTML5"
  width="392px"
  style="padding-right: 50px;"
- src="https://github-readme-stats.vercel.app/api?username=GustavoMouraDeJesus&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br" />
+ src="https://github-readme-stats.vercel.app/api?username=GustavoMouraDeJesus&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br&count_private=true" />
  <img
  aling="left"
  alt="GitHub Stats"
  width="300px"
  style="padding-right: 50px;"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&theme=tokyonight&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=5" />
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&theme=shadow_red&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true" />
 
                       
