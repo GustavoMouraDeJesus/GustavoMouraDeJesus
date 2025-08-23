@@ -29,7 +29,7 @@ Me chamo Gustavo Moura, tenho 21 anos e moro em São Paulo. Concluí o ensino m�
  <img
  aling="left"
  alt="GitHub Stats"
- width="300px"
+ width="392px"
  style="padding-right: 50px;"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&theme=shadow_red&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true" />
 
