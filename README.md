@@ -50,3 +50,5 @@ Decidi direcionar minha carreira para a área de Tecnologia da Informação, um 
   <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <div>
+
+![snake gif](https://github.com/GustavoMouraDeJesus/GustavoMouraDeJesus/blob/output/github-contribution-grid-snake.svg)
