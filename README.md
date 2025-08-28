@@ -35,8 +35,8 @@ Decidi direcionar minha carreira para a área de Tecnologia da Informação, um 
 <h2 align="left">📌Sobre Mim </h2>
 
 <li>🎓 Formação: Técnologo em Logística </li>
-<li>🎒 Habilidades: HTML, CSS </li>
-<li>💻 Atualmente Aprendendo: JavaScript, Figma </li>
+<li>🎒 Habilidades: HTML, CSS, Figma</li>
+<li>💻 Atualmente Aprendendo: JavaScript e Java </li>
 <li>🌏 Idiomas: Portugues(nativo) </li>
 <li>📫 Como chegar até mim : gustavomouradejesus@gmail.com</li>
 
