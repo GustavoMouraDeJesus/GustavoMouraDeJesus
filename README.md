@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo+Moura!;Sou+Desenvolvedor+Beck-End.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
-**`Aprendendo Back-End`**
+**`Aprendendo Front-End`**
 
 Meu nome é Gustavo Moura, tenho 21 anos e resido em São Paulo. Concluí o ensino médio na E. E. Gabriel Ortiz, com formação básica em Administração, e sou Tecnólogo em Logística pela UNICID. Atualmente, sou aluno do Instituto Proa, cursando Java no período da manhã, turma do segundo semestre de 2025.
 
