@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo+Moura!;Sou+Desenvolvedor+Beck-End.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo+Moura!;Sou+Desenvolvedor+Front-End.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
 **`Aprendendo Front-End`**
 
