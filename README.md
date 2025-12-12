@@ -51,7 +51,7 @@ Decidi direcionar minha carreira para a área de Tecnologia da Informação, um 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GustavoMouraDeJesus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GustavoMouraDeJesus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://github.com/GustavoMouraDeJesus/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg">
 </picture>
