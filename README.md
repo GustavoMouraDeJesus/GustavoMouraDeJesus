@@ -50,12 +50,15 @@ Decidi direcionar minha carreira para a área de Tecnologia da Informação, um 
 
 ###
 
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg" width="100%vw" >
-</picture>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoMouraDeJesus&show_icons=true&count_private=true&hide_border=true&title_color=fff0f6&icon_color=fff0f6&text_color=fff0f6&bg_color=9B111E" alt="Mariana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&layout=compact&hide_border=true&title_color=fff0f6&text_color=fff0f6&bg_color=9B111E" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielbped/danielbped/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
