@@ -12,43 +12,40 @@ Decidi direcionar minha carreira para a área de Tecnologia da Informação, um 
 
 [![Blog](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gmoura_djesus/?igsh=c21ueTRjaHlmOWto) [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moura-861938222/) [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/YVEZDTIVTWLEK1) [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavomouradejesus@gmai.com)
 
----
- 
-<br>
- 📊 Estatísticas 
-<br>
-
- <img
- aling="left"
- alt="HTML5"
- width="435px"
- src="https://github-readme-stats.vercel.app/api?username=GustavoMouraDeJesus&show_icons=true&theme=chartreuse-dark&include_all_commits&locale=pt-br&count_private=true" />
- <img
- aling="left"
- alt="GitHub Stats"
- width="392px"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&theme=chartreuse-dark&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true" />
-
----
-                      
 ###
-<h2 align="left">📌Sobre Mim </h2>
 
-<li>🎓 Formação: Técnologo em Logística </li>
-<li>🎒 Habilidades: HTML, CSS, Figma</li>
-<li>💻 Atualmente Aprendendo: JavaScript e Java </li>
-<li>🌏 Idiomas: Portugues(nativo) </li>
-<li>📫 Como chegar até mim : gustavomouradejesus@gmail.com</li>
-
----
-###
-<h1 align="center">🤖 Linguagens e Tecnologias </h1>
-<br>
 <div align="center">
-  <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- <div>
+  
+</div>
 
-![snake gif](https://github.com/GustavoMouraDeJesus/GustavoMouraDeJesus/blob/output/github-contribution-grid-snake.svg)
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+</div>
+
+###
