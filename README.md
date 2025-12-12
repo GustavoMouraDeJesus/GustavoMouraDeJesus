@@ -57,8 +57,14 @@ Decidi direcionar minha carreira para a área de Tecnologia da Informação, um 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielbped/danielbped/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg" width="100%vw" >
+</picture>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
