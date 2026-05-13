@@ -2,7 +2,7 @@
 
 **`Aprendendo Front-End`**
 
-Meu nome é Gustavo Moura, tenho 21 anos e resido em São Paulo. Concluí o ensino médio na E. E. Gabriel Ortiz, com formação básica em Administração, e sou Tecnólogo em Logística pela UNICID. Atualmente, sou aluno do Instituto Proa, cursando Java no período da manhã, turma do segundo semestre de 2025.
+Meu nome é Gustavo Moura, tenho 21 anos e resido em São Paulo. Concluí o ensino médio na E. E. Gabriel Ortiz, com formação básica em Administração, e sou Tecnólogo em Logística pela UNICID. Formado em Desenvolvimento Web com foco em Java pelo Instituto Proa, turma do segundo semestre de 2025.
 
 Decidi direcionar minha carreira para a área de Tecnologia da Informação, um setor que exige constante aprendizado e adaptação. Estou comprometido em desenvolver minhas habilidades com dedicação, coragem e determinação, buscando sempre crescimento pessoal e profissional.
 
@@ -50,20 +50,13 @@ Decidi direcionar minha carreira para a área de Tecnologia da Informação, um 
 
 ###
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoMouraDeJesus&show_icons=true&count_private=true&hide_border=true&title_color=fff0f6&icon_color=fff0f6&text_color=fff0f6&bg_color=9B111E" alt="Mariana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&layout=compact&hide_border=true&title_color=fff0f6&text_color=fff0f6&bg_color=9B111E" />
-</div>
+
 
 ---
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/pacman-contribution-graph.svg" width="100%vw" >
-</picture>
+
 
 </div>
 
