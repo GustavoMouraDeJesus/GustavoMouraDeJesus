@@ -2,10 +2,72 @@
 
 **`Aprendendo Front-End`**
 
-Meu nome é Gustavo Moura, tenho 21 anos e resido em São Paulo. Concluí o ensino médio na E. E. Gabriel Ortiz, com formação básica em Administração, e sou Tecnólogo em Logística pela UNICID. Formado em Desenvolvimento Web com foco em Java pelo Instituto Proa, turma do segundo semestre de 2025.
+Olá, eu sou Gustavo Moura 👋
 
-Decidi direcionar minha carreira para a área de Tecnologia da Informação, um setor que exige constante aprendizado e adaptação. Estou comprometido em desenvolver minhas habilidades com dedicação, coragem e determinação, buscando sempre crescimento pessoal e profissional.
+Sou estudante de Engenharia de Software e Desenvolvedor Front-End apaixonado por tecnologia, aprendizado contínuo e construção de soluções que geram impacto real na vida das pessoas.
 
+Atualmente, desenvolvo projetos utilizando HTML5, CSS3, JavaScript, React e TypeScript, sempre buscando aprimorar minhas habilidades em desenvolvimento web, experiência do usuário e boas práticas de programação.
+
+🚀 Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Java
+- Git
+- GitHub
+- Tailwind CSS
+
+📌 Projetos em Destaque
+
+Librali
+Plataforma desenvolvida para conectar intérpretes de Libras a pessoas que necessitam desse serviço, promovendo acessibilidade e inclusão.
+
+Atuação:
+- Scrum Master
+- Desenvolvedor Front-End Principal
+- ReactJS
+- HTML5
+- CSS3
+- JavaScript
+
+Troquin
+Plataforma de educação financeira criada para democratizar o acesso ao conhecimento sobre investimentos.
+
+Atuação:
+* Desenvolvimento Front-End
+* HTML5
+* CSS3
+* JavaScript
+* Implementação da Calculadora de Juros Compostos
+* Manipulação do DOM
+
+AprovAI
+Plataforma educacional desenvolvida para auxiliar estudantes na preparação para provas utilizando Inteligência Artificial.
+
+Atuação:
+- Desenvolvimento Front-End
+- HTML5
+- CSS3
+- JavaScript
+- Desenvolvimento das telas de Login e Parceiros
+
+🎯 Objetivo Profissional
+
+Busco oportunidades de estágio em Desenvolvimento Front-End, Engenharia de Software e Desenvolvimento de Software, contribuindo com minha capacidade de aprendizado, trabalho em equipe e paixão por tecnologia.
+
+🌐 Conecte-se comigo
+
+💼 LinkedIn:
+linkedin.com/in/gustavo-moura-861938222
+
+📂 Portfólio:
+meu-portifolio-three-alpha.vercel.app
+
+📧 E-mail:
+gustavomouradejesus@gmail.com
 ---
 
 <h2 align="left">📫 Entre em Contato </h2>
