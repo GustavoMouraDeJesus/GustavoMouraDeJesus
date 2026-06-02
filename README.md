@@ -58,19 +58,8 @@ Atuação:
 
 Busco oportunidades de estágio em Desenvolvimento Front-End, Engenharia de Software e Desenvolvimento de Software, contribuindo com minha capacidade de aprendizado, trabalho em equipe e paixão por tecnologia.
 
-🌐 Conecte-se comigo
 
-💼 LinkedIn:
-linkedin.com/in/gustavo-moura-861938222
-
-📂 Portfólio:
-meu-portifolio-three-alpha.vercel.app
-
-📧 E-mail:
-gustavomouradejesus@gmail.com
----
-
-<h2 align="left">📫 Entre em Contato </h2>
+<h2 align="left">🌐 Conecte-se comigo </h2>
 
 [![Blog](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gmoura_djesus/?igsh=c21ueTRjaHlmOWto) [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moura-861938222/) [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/YVEZDTIVTWLEK1) [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavomouradejesus@gmai.com)
 
