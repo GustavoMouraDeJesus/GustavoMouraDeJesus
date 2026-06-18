@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo+Moura!;Sou+Desenvolvedor+Front-End.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
-**`Aprendendo TailWind Css e TypeScript`**
+**`Aprendendo Tailwind CSS, TypeScript, Python e FastAPI`**
 
 Olá, eu sou Gustavo Moura 👋
 
@@ -152,6 +152,24 @@ Busco oportunidades de estágio em Desenvolvimento Front-End, Engenharia de Soft
 />
 
 </div>
+
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoMouraDeJesus/GustavoMouraDeJesus/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
