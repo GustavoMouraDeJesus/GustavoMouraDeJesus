@@ -112,3 +112,6 @@ Busco oportunidades de estágio em Desenvolvimento Front-End, Engenharia de Soft
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMouraDeJesus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9)
